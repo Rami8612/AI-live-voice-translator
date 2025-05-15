@@ -1,0 +1,13 @@
+# --- Requisitos principales ---
+soundcard
+soundfile
+colorama
+scipy
+numpy
+pyttsx3
+comtypes
+faster-whisper
+transformers
+torch
+openai
+python-dotenv
