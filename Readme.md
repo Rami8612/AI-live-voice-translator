@@ -88,4 +88,4 @@ Free to use for educational and personal purposes. Attribution is appreciated if
 
 🔄 This project is evolving. Suggestions, improvements, and stars on GitHub are welcome!
 
-👉 Also available in [Spanish](README.es.md)
+👉 Also available in [Spanish](Readme.es.md)
